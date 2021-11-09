@@ -8,7 +8,8 @@ The following tutorial will take you a long time to complete. It covers all type
 
 Upon completing this tutorail in June 2020, [this was an issue during project setup](https://github.com/graphql-boilerplates/typescript-graphql-server/issues/136). The "Workaround" in the Github issue summary is a working solution. If you encounter this error, apply the workaround as instructed.
 
-## [React + GraphQL + Apollo tutorial](https://www.howtographql.com/react-apollo/0-introduction/)
+## [React + GraphQL + Apollo tutorial](https://www.apollographql.com/docs/tutorial/introduction/)
+(Formerly: https://www.howtographql.com/react-apollo/0-introduction/
 
 ### Resources
 
